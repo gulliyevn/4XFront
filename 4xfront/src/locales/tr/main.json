@@ -1,0 +1,291 @@
+{
+    "marketTicket": {
+        "markets": "Piyasalar",
+        "open": "AÇIK",
+        "closed": "KAPALI"
+    },
+    "heroSections": {
+        "badge": "Yeni Nesil Ticaret Platformu",
+        "title": "Kendi Gerçekliğini Yarat",
+        "subtitle": "Yapay Zeka Destekli Finansal Zekâ",
+        "startAI": "Yapay Zeka Analizini Başlat",
+        "learnTrading": "Ticareti Öğren",
+        "stats": {
+            "aiAccuracy": "Yapay Zeka Doğruluğu",
+            "users": "Aktif Kullanıcılar",
+            "volume": "Analiz Edilen Hacim",
+            "monitoring": "Yapay Zeka İzleme"
+        }
+    },
+    "aiFeatures": {
+        "title": "<span>Yapay Zeka</span> Destekli",
+        "subtitle": "Gelişmiş yapay zeka algoritmalarımız, en doğru piyasa içgörüleri ve işlem fırsatları sağlamak için milyonlarca veriyi gerçek zamanlı analiz eder.",
+        "cards": [
+            {
+                "badge": "%94.7 Doğruluk",
+                "title": "Fiyat Tahminleri",
+                "description": "Gelişmiş makine öğrenimi modelleri, fiyat hareketlerini sektör lideri doğrulukla tahmin eder.",
+                "highlights": ["Gerçek zamanlı tahminler", "Çoklu zaman dilimleri", "Risk analizi"],
+                "stats": ["Tahmin", "Varlık"]
+            },
+            {
+                "badge": "Gerçek zamanlı",
+                "title": "Duygu Analizi",
+                "description": "Haberler, sosyal medya ve işlem verileri genelinde piyasa duyarlılığını izleyin ve bilinçli kararlar alın.",
+                "highlights": ["Haber duyarlılığı", "Sosyal medya analizi", "Piyasa psikolojisi"],
+                "stats": ["Kaynaklar", "İzleme"]
+            },
+            {
+                "badge": "Gelişmiş",
+                "title": "Desen Tanıma",
+                "description": "Yapay zeka destekli desen tanıma ile karmaşık grafik desenlerini ve işlem fırsatlarını tespit edin.",
+                "highlights": ["50+ desen", "Otomatik tespit", "Başarı olasılığı"],
+                "stats": ["Kazanma Oranı", "Desen"]
+            }
+        ]
+    },
+    "marketsSection": {
+        "title": "Küresel Piyasa Kapsamı",
+        "subtitle": "Gerçek zamanlı veriler ve yapay zekâ analizleriyle tüm ana varlık sınıflarında kapsamlı analizlere erişin.",
+        "cards": [
+            {
+                "badge": "10.000+ Hisse Senedi",
+                "title": "Hisse Senedi Piyasaları",
+                "description": "50'den fazla küresel borsada yapay zekâ destekli kapsamlı hisse analizi.",
+                "stats": ["Borsalar", "Hisse Senetleri"]
+            },
+            {
+                "badge": "5.000+ Kripto",
+                "title": "Kripto Para",
+                "description": "DeFi metrikleri, zincir-üstü veriler ve piyasa duyarlılığı ile ileri düzey kripto analizleri.",
+                "stats": ["Kripto Paralar", "DeFi Protokolleri"]
+            },
+            {
+                "badge": "100+ Parite",
+                "title": "Döviz (Forex)",
+                "description": "Merkez bankası verileri, ekonomik göstergeler ve yapay zekâ tahminleriyle profesyonel forex analizi.",
+                "stats": ["Para Pariteleri", "Merkez Bankaları"]
+            },
+            {
+                "badge": "50+ Emtia",
+                "title": "Emtialar",
+                "description": "Değerli metaller, enerji ve tarımsal emtiaları arz-talep analiziyle takip edin.",
+                "stats": ["Emtialar", "Vadeli İşlemler"]
+            }
+        ]
+    },
+    "ctaSection": {
+        "title": "Yatırımınızı Dönüştürmeye Hazır mısınız?",
+        "subtitle": "Piyasadaki en iyi analizler ve üstün işlem performansı için yapay zekâ destekli platformumuza güvenen 100.000'den fazla profesyonel yatırımcıya katılın.",
+        "startTrial": "Ücretsiz Denemeyi Başlat",
+        "contactSales": "Satış Ekibiyle İletişime Geçin"
+    },
+    "newsSection": {
+        "title": "En Son Piyasa Haberleri",
+        "aiBadge": "Yapay Zekâ Destekli",
+        "subtitle": "Gerçek zamanlı piyasa haberleri, yapay zekâ analizleri ve uzman görüşleriyle önde olun",
+        "newsItems": [
+            {
+                "id": 1,
+                "title": "YZ, Teknoloji Hisselerinde Büyük Piyasa Hareketi Öngörüyor",
+                "excerpt": "Gelişmiş yapay zekâ algoritmalarımız, önümüzdeki 48 saat içinde büyük teknoloji hisselerinde potansiyel %15'lik bir hareketi işaret eden önemli desenler belirledi.",
+                "category": "YZ Analizi",
+                "readTime": "3 dk okuma",
+                "timestamp": "2 saat önce",
+                "sentiment": "bullish",
+                "confidence": 94.7
+            },
+            {
+                "id": 2,
+                "title": "FED Kararının Kripto Para Piyasalarına Etkisi",
+                "excerpt": "Son FED faiz kararı, Bitcoin, Ethereum ve diğer büyük kripto paraları nasıl etkiliyor? Analiz burada.",
+                "category": "Piyasa Analizi",
+                "readTime": "5 dk okuma",
+                "timestamp": "4 saat önce",
+                "sentiment": "neutral",
+                "confidence": 87.3
+            },
+            {
+                "id": 3,
+                "title": "Flaş: Büyük Petrol Keşfi Enerji Sektörünü Etkiliyor",
+                "excerpt": "Kuzey Denizi'nde yapılan önemli bir petrol keşfi, enerji hisseleri ve emtia piyasalarında küresel dalgalanmalara yol açıyor.",
+                "category": "Son Dakika",
+                "readTime": "2 dk okuma",
+                "timestamp": "6 saat önce",
+                "sentiment": "bullish",
+                "confidence": 91.2
+            },
+            {
+                "id": 4,
+                "title": "Forex Piyasasında Dalgalanma: EUR/USD Analizi",
+                "excerpt": "Güncel EUR/USD dalgalanma modellerine yakından bakış ve YZ modellerimizin gelecek hafta için tahminleri.",
+                "category": "Forex",
+                "readTime": "4 dk okuma",
+                "timestamp": "8 saat önce",
+                "sentiment": "bearish",
+                "confidence": 89.5
+            }
+        ],
+        "actions": {
+            "viewAll": {
+                "label": "Tüm Haberleri Gör"
+            },
+            "aiPredictions": {
+                "label": "YZ Piyasa Tahminleri"
+            }
+        },
+        "aiConfidence": "YZ Güveni",
+        "sourcesTitle": "Güvenilir Haber Kaynakları",
+        "sources": [
+            { "name": "Bloomberg" },
+            { "name": "Reuters" },
+            { "name": "Financial Times" },
+            { "name": "MarketWatch" },
+            { "name": "Yahoo Finance" }
+        ],
+        "sentiments": {
+            "bullish": {
+                "label": "Yükseliş"
+            },
+            "bearish": {
+                "label": "Düşüş"
+            },
+            "neutral": {
+                "label": "Nötr"
+            }
+        }
+    },
+    "trustIndicators": {
+        "trustBadges": [
+            {
+                "icon": "🛡️",
+                "title": "SEC Tarafından Düzenlenen",
+                "description": "Finansal düzenlemelere tam uyumlu"
+            },
+            {
+                "icon": "🔒",
+                "title": "Banka Düzeyinde Güvenlik",
+                "description": "256-bit SSL şifreleme ve soğuk depolama"
+            },
+            {
+                "icon": "⭐",
+                "title": "4.9/5 Puan",
+                "description": "Dünya çapında 100.000+ trader tarafından güveniliyor"
+            },
+            {
+                "icon": "🏆",
+                "title": "Ödüllü",
+                "description": "2024'ün En İyi YZ Ticaret Platformu"
+            }
+        ],
+        "certificationsTitle": "Sertifikalı & Uyumluluk",
+        "certifications": [
+            {
+                "logo": "🔐",
+                "name": "ISO 27001"
+            },
+            {
+                "logo": "✅",
+                "name": "SOC 2 Tip II"
+            },
+            {
+                "logo": "💳",
+                "name": "PCI DSS"
+            },
+            {
+                "logo": "🇪🇺",
+                "name": "GDPR Uyumluluğu"
+            }
+        ]
+    },
+
+    "socialProofSection": {
+        "statsHeader": {
+            "title": "Dünya Çapında Profesyonellerin Güvendiği Platform",
+            "subtitle": "YZ destekli platformumuza güvenen binlerce başarılı trader'a katılın"
+        },
+        "stats": [
+            {
+                "value": "100.000+",
+                "label": "Aktif Trader",
+                "description": "Dünya genelinde profesyonel traderlar"
+            },
+            {
+                "value": "$2,5 Milyar+",
+                "label": "İşlenen Hacim",
+                "description": "Günlük işlenen işlem hacmi"
+            },
+            {
+                "value": "%94,7",
+                "label": "YZ Doğruluğu",
+                "description": "Tahmin doğruluk oranı"
+            },
+            {
+                "value": "150+",
+                "label": "Ülke",
+                "description": "Küresel piyasa kapsama alanı"
+            }
+        ],
+        "testimonialsHeader": {
+            "title": "Trader'larımız Ne Diyor?",
+            "subtitle": "YZ destekli platformumuzu kullanan gerçek trader'lardan gerçek sonuçlar"
+        },
+        "testimonials": [
+            {
+                "name": "Sarah Chen",
+                "role": "Profesyonel Trader",
+                "company": "Goldman Sachs",
+                "rating": 5,
+                "text": "YZ tahminleri, işlem doğruluğumu %40 artırdı. Bu platform, profesyonel trader'lar için gerçek bir oyun değiştirici.",
+                "profit": "+$127B",
+                "timeframe": "6 ay"
+            },
+            {
+                "name": "Michael Rodriguez",
+                "role": "Portföy Yöneticisi",
+                "company": "BlackRock",
+                "rating": 5,
+                "text": "Gerçek zamanlı piyasa analizi ve YZ içgörüleri, yatırım kararlarımızı tamamen dönüştürdü. Gerçekten harika.",
+                "profit": "+$89B",
+                "timeframe": "4 ay"
+            },
+            {
+                "name": "Emily Johnson",
+                "role": "Kripto Yatırımcısı",
+                "company": "Bağımsız",
+                "rating": 5,
+                "text": "Kripto para analizleri tam isabet. Volatil piyasalar için bu kadar doğru tahminler hiç görmemiştim.",
+                "profit": "+$234B",
+                "timeframe": "8 ay"
+            }
+        ],
+        "testimonialLabels": {
+            "profit": "Kâr:",
+            "timeframe": "Dönem:"
+        },
+        "companiesTitle": "Önde Gelen Finans Kuruluşlarının Güvendiği Platform",
+        "companies": [
+            { "name": "Goldman Sachs" },
+            { "name": "JPMorgan" },
+            { "name": "BlackRock" },
+            { "name": "Vanguard" },
+            { "name": "Fidelity" },
+            { "name": "Charles Schwab" }
+        ],
+        "awardsTitle": "Sektörel Takdir",
+        "awards": [
+            {
+                "name": "2024'ün En İyi YZ Trading Platformu",
+                "organization": "FinTech Awards"
+            },
+            {
+                "name": "Finansal Teknolojide İnovasyon",
+                "organization": "TechCrunch Disrupt"
+            },
+            {
+                "name": "En Yüksek Puanlı Trading Platformu",
+                "organization": "Trustpilot Excellence"
+            }
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "logo": {
+        "title": "4X Analitik",
+        "subtitle": "Kendi Gerçekliğini Yarat"
+    },
+    "menu": {
+        "ai": {
+            "label": "Yapay Zeka",
+            "dashboard": "YZ Paneli",
+            "dashboardDesc": "Kapsamlı yapay zeka analitiği",
+            "predictions": "Fiyat Tahminleri",
+            "predictionsDesc": "%94.7 doğruluk oranı",
+            "sentiment": "Duygu Analizi",
+            "sentimentDesc": "Gerçek zamanlı piyasa duyarlılığı",
+            "patterns": "Desen Tanıma",
+            "patternsDesc": "50+ grafik deseni",
+            "risk": "Risk Değerlendirmesi",
+            "riskDesc": "Gelişmiş VaR modelleri",
+            "signals": "Alım Satım Sinyalleri",
+            "signalsDesc": "%87 başarı oranı"
+        },
+        "markets": {
+            "label": "Piyasalar",
+            "stocks": "Hisseler",
+            "stocksDesc": "10.000+ hisse, 50+ borsa",
+            "crypto": "Kripto Paralar",
+            "cryptoDesc": "5.000+ coin, DeFi analitiği",
+            "forex": "Döviz",
+            "forexDesc": "100+ parite, merkez bankası verisi",
+            "commodities": "Emtialar",
+            "commoditiesDesc": "50+ emtia",
+            "indices": "Endeksler",
+            "indicesDesc": "100+ küresel endeks",
+            "options": "Opsiyonlar",
+            "optionsDesc": "1M+ kontrat"
+        },
+        "charts": {
+            "label": "Grafikler ve Araçlar",
+            "charts": "Gelişmiş Grafikler",
+            "chartsDesc": "100+ gösterge",
+            "calculators": "Hesaplayıcılar",
+            "calculatorsDesc": "Risk & kâr hesaplama",
+            "screeners": "Piyasa Taraması",
+            "screenersDesc": "YZ destekli tarama",
+            "alerts": "Akıllı Uyarılar",
+            "alertsDesc": "Gerçek zamanlı bildirimler"
+        },
+        "news": {
+            "label": "Haber & Analiz",
+            "news": "Piyasa Haberleri",
+            "newsDesc": "Anlık finans haberleri",
+            "analysis": "Piyasa Analizi",
+            "analysisDesc": "Uzman görüşleri",
+            "calendar": "Ekonomik Takvim",
+            "calendarDesc": "Önemli etkinlikler ve açıklamalar"
+        },
+        "education": {
+            "label": "Eğitim",
+            "academy": "Ticaret Akademisi",
+            "academyDesc": "Kapsamlı kurslar",
+            "aiCourse": "YZ Ticaret Kursu",
+            "aiCourseDesc": "YZ tabanlı ticaret öğrenin",
+            "webinars": "Canlı Webinarlar",
+            "webinarsDesc": "Uzman oturumları"
+        }
+    },
+    "profile": {
+        "profile": "Profil",
+        "profileDesc": "Hesabınızı yönetin",
+        "dashboard": "Panel",
+        "dashboardDesc": "Ticaret genel bakış",
+        "portfolio": "Portföy",
+        "portfolioDesc": "Yatırımlarınızı görüntüleyin",
+        "trading": "Canlı Ticaret",
+        "tradingDesc": "Hemen ticarete başla",
+        "wallet": "Cüzdan",
+        "walletDesc": "Fonları yönetin",
+        "signOut": "Çıkış Yap",
+        "signOutDesc": "Hesaptan çıkış yap"
+    },
+    "login": "Giriş Yap",
+    "signOut": "Çıkış Yap",
+    "mobile": {
+        "ai": "Yapay Zeka",
+        "markets": "Piyasalar",
+        "charts": "Grafikler ve Araçlar",
+        "news": "Haber & Analiz",
+        "education": "Eğitim",
+        "profile": "Profil",
+        "dashboard": "Panel",
+        "trading": "Ticaret",
+        "wallet": "Cüzdan",
+        "signOut": "Çıkış Yap",
+        "login": "Giriş Yap"
+    },
+    "theme": {
+        "toLight": "Açık Moda Geç",
+        "toDark": "Koyu Moda Geç"
+    },
+    "languages": {
+        "en": "İngilizce",
+        "tr": "Türkçe",
+        "ru": "Rusça"
+    }
+}

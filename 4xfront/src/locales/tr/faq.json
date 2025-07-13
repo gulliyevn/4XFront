@@ -1,0 +1,73 @@
+{
+    "header": {
+        "title": "Sıkça Sorulan Sorular",
+        "subtitle": "Yapay zekâ destekli ticaret platformumuz hakkında en sık sorulan soruların cevaplarını bulun"
+    },
+    "faqs": [
+        {
+            "id": 1,
+            "question": "Yapay zekâ ticaret tahminleriniz ne kadar doğru?",
+            "answer": "Yapay zekâ algoritmalarımız, piyasa tahminlerinde %94,7'lik sektör lideri bir doğruluk oranına ulaşmaktadır. Bu oran, çeşitli varlık sınıflarında yapılan kapsamlı geriye dönük testler ve son 3 yıldaki gerçek zamanlı performans takibine dayanmaktadır."
+        },
+        {
+            "id": 2,
+            "question": "Hangi pazarları ve varlıkları kapsıyorsunuz?",
+            "answer": "Hisseler (10.000+ sembol), kripto paralar (5.000+ coin), forex (100+ çift), emtialar (50+ enstrüman) ve 150'den fazla ülkeden endeksler dahil olmak üzere kapsamlı piyasaları sunuyoruz."
+        },
+        {
+            "id": 3,
+            "question": "Platform yeni başlayanlar için uygun mu?",
+            "answer": "Kesinlikle! Platformumuz her seviyeden yatırımcılar için tasarlanmıştır. Kapsamlı eğitim kaynakları, yapay zekâ destekli rehberler ve kullanıcı dostu arayüz ile gelişmiş işlemleri herkes için erişilebilir hale getiriyoruz."
+        },
+        {
+            "id": 4,
+            "question": "Yapay zekâ teknolojiniz nasıl çalışıyor?",
+            "answer": "Yapay zekâmız, sinir ağları ve duygu analizi için doğal dil işleme dahil olmak üzere gelişmiş makine öğrenimi algoritmaları kullanır ve fiyat hareketleri, haber akışı, sosyal medya trendleri ve ekonomik göstergeler gibi milyonlarca veriyi analiz eder."
+        },
+        {
+            "id": 5,
+            "question": "Abonelik ücretleri nedir?",
+            "answer": "Esnek fiyat planlarımız mevcuttur: Temel özellikler için aylık 29$, profesyoneller için 99$ ve kurumsal müşteriler için 299$'dan başlar. Tüm planlarda, yapay zekâ işlevselliğine tam erişimli 14 günlük ücretsiz deneme sunulmaktadır."
+        },
+        {
+            "id": 6,
+            "question": "Verilerim ve fonlarım güvende mi?",
+            "answer": "Güvenlik en büyük önceliğimizdir. Banka seviyesinde 256 bit SSL şifreleme, SOC 2 Type II sertifikası, PCI DSS uyumluluğu ve GDPR'a sıkı uyum sağlamaktayız. Hesap bilgilerinizi asla saklamayız ve sadece okuma erişimli API bağlantıları kullanırız."
+        },
+        {
+            "id": 7,
+            "question": "Mevcut brokerımla entegre olabilir miyim?",
+            "answer": "Evet! Interactive Brokers, TD Ameritrade, E*TRADE, Robinhood, Binance, Coinbase Pro ve daha birçok büyük aracı kurumla güvenli API entegrasyonunu destekliyoruz."
+        },
+        {
+            "id": 8,
+            "question": "Mobil uygulamanız var mı?",
+            "answer": "Evet, hem iOS hem de Android için yerel mobil uygulamalarımız vardır ve web platformumuzdaki tüm özelliklere sahiptir. Anlık bildirim alabilir, yapay zekâ tahminlerini görebilir ve işlemlerinizi mobil cihazınızdan gerçekleştirebilirsiniz."
+        },
+        {
+            "id": 9,
+            "question": "Ne tür destek sağlıyorsunuz?",
+            "answer": "Canlı sohbet, e-posta ve telefon yoluyla 7/24 müşteri desteği sunuyoruz. Premium aboneler ayrıca özel hesap yöneticilerine ve 1 saatten kısa yanıt garantili öncelikli desteğe sahip olur."
+        },
+        {
+            "id": 10,
+            "question": "Aboneliğimi istediğim zaman iptal edebilir miyim?",
+            "answer": "Evet, aboneliğinizi istediğiniz zaman ek ücret ödemeden iptal edebilirsiniz. Mevcut fatura dönemi sonuna kadar erişiminiz devam eder ve tüm geçmiş verilerinizi kaybetmeden aboneliğinizi istediğiniz zaman yeniden etkinleştirebilirsiniz."
+        }
+    ],
+    "sidebar": {
+        "contact": {
+            "title": "Hâlâ sorunuz mu var?",
+            "description": "Destek ekibimiz, platformumuzdan en iyi şekilde yararlanmanız için 7/24 hizmetinizde.",
+            "supportBtn": "Destek ile iletişime geçin",
+            "demoBtn": "Demo Talep Edin"
+        },
+        "resources": {
+            "title": "Faydalı Kaynaklar",
+            "academy": "Ticaret Akademisi",
+            "api": "API Dokümantasyonu",
+            "tutorials": "Video Eğitimleri",
+            "community": "Topluluk Forumu"
+        }
+    }
+}

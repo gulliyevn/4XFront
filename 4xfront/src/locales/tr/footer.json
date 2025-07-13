@@ -1,0 +1,32 @@
+{
+    "brand": "4X Analitik",
+    "description": "Dünyadaki yatırımcılar tarafından güvenilen profesyonel yapay zeka destekli ticaret platformu.",
+    "social": {
+        "email": "E-posta",
+        "phone": "Telefon",
+        "twitter": "Twitter",
+        "linkedin": "LinkedIn"
+    },
+    "platform": {
+        "title": "Platform",
+        "ai": "Yapay Zeka Analitiği",
+        "markets": "Piyasalar",
+        "charts": "Grafikler ve Araçlar",
+        "news": "Haberler ve Analiz"
+    },
+    "education": {
+        "title": "Eğitim",
+        "academy": "Ticaret Akademisi",
+        "webinars": "Canlı Webinarlar",
+        "aiCourse": "Yapay Zeka Ticaret Kursu",
+        "strategies": "Stratejiler"
+    },
+    "company": {
+        "title": "Şirket",
+        "about": "Hakkımızda",
+        "contact": "İletişim",
+        "careers": "Kariyer",
+        "press": "Basın"
+    },
+    "copyright": "© 2024 4X Analitik Profesyonel Platformu. Tüm hakları saklıdır."
+}

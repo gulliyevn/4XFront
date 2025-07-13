@@ -1,0 +1,105 @@
+{
+    "logo": {
+        "title": "4X Analytics",
+        "subtitle": "Create Your Reality"
+    },
+    "menu": {
+        "ai": {
+            "label": "AI Intelligence",
+            "dashboard": "AI Dashboard",
+            "dashboardDesc": "Comprehensive AI analytics",
+            "predictions": "Price Predictions",
+            "predictionsDesc": "94.7% accuracy rate",
+            "sentiment": "Sentiment Analysis",
+            "sentimentDesc": "Real-time market sentiment",
+            "patterns": "Pattern Recognition",
+            "patternsDesc": "50+ chart patterns",
+            "risk": "Risk Assessment",
+            "riskDesc": "Advanced VaR models",
+            "signals": "Trading Signals",
+            "signalsDesc": "87% win rate"
+        },
+        "markets": {
+            "label": "Markets",
+            "stocks": "Stocks",
+            "stocksDesc": "10,000+ stocks, 50+ exchanges",
+            "crypto": "Cryptocurrency",
+            "cryptoDesc": "5,000+ cryptos, DeFi analytics",
+            "forex": "Forex",
+            "forexDesc": "100+ pairs, central bank data",
+            "commodities": "Commodities",
+            "commoditiesDesc": "50+ commodities",
+            "indices": "Indices",
+            "indicesDesc": "100+ global indices",
+            "options": "Options",
+            "optionsDesc": "1M+ contracts"
+        },
+        "charts": {
+            "label": "Charts & Tools",
+            "charts": "Advanced Charts",
+            "chartsDesc": "100+ indicators",
+            "calculators": "Calculators",
+            "calculatorsDesc": "Risk & profit calculators",
+            "screeners": "Market Screeners",
+            "screenersDesc": "AI-powered screening",
+            "alerts": "Smart Alerts",
+            "alertsDesc": "Real-time notifications"
+        },
+        "news": {
+            "label": "News & Analysis",
+            "news": "Market News",
+            "newsDesc": "Real-time financial news",
+            "analysis": "Market Analysis",
+            "analysisDesc": "Expert insights",
+            "calendar": "Economic Calendar",
+            "calendarDesc": "Key events & releases"
+        },
+        "education": {
+            "label": "Education",
+            "academy": "Trading Academy",
+            "academyDesc": "Comprehensive courses",
+            "aiCourse": "AI Trading Course",
+            "aiCourseDesc": "Learn AI-powered trading",
+            "webinars": "Live Webinars",
+            "webinarsDesc": "Expert-led sessions"
+        }
+    },
+    "profile": {
+        "profile": "Profile",
+        "profileDesc": "Manage your account",
+        "dashboard": "Dashboard",
+        "dashboardDesc": "Trading overview",
+        "portfolio": "Portfolio",
+        "portfolioDesc": "View your investments",
+        "trading": "Live Trading",
+        "tradingDesc": "Start trading now",
+        "wallet": "Wallet",
+        "walletDesc": "Manage funds",
+        "signOut": "Sign Out",
+        "signOutDesc": "Logout from account"
+    },
+    "login": "Login",
+    "signOut": "Sign Out",
+    "mobile": {
+        "ai": "AI Intelligence",
+        "markets": "Markets",
+        "charts": "Charts & Tools",
+        "news": "News & Analysis",
+        "education": "Education",
+        "profile": "Profile",
+        "dashboard": "Dashboard",
+        "trading": "Trading",
+        "wallet": "Wallet",
+        "signOut": "Sign Out",
+        "login": "Login"
+    },
+    "theme": {
+        "toLight": "Switch to Light Mode",
+        "toDark": "Switch to Dark Mode"
+    },
+    "languages": {
+        "en": "English",
+        "tr": "Türkçe",
+        "ru": "Русский"
+    }
+}

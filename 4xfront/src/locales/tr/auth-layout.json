@@ -1,0 +1,18 @@
+{
+    "title": "4X Ticaret Platformu",
+    "subtitle": "Modern yatırımcı için profesyonel ticaret araçları",
+    "hero": {
+      "headline": "<confidence>Güvenle</confidence> ticaret yapın",
+      "features": [
+        { "icon": "🔒", "text": "Banka düzeyinde güvenlik" },
+        { "icon": "⚡", "text": "Yıldırım hızında işlem" },
+        { "icon": "📊", "text": "Gelişmiş analiz" },
+        { "icon": "🌍", "text": "Küresel piyasa erişimi" }
+      ],
+      "stats": [
+        { "value": "$2.5B+", "label": "İşlem Hacmi" },
+        { "value": "150K+", "label": "Aktif Trader" },
+        { "value": "99.9%", "label": "Çalışma Süresi" }
+      ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "brand": "4X Analytics",
+    "description": "Professional AI-powered trading platform trusted by traders worldwide.",
+    "social": {
+        "email": "Email",
+        "phone": "Phone",
+        "twitter": "Twitter",
+        "linkedin": "LinkedIn"
+    },
+    "platform": {
+        "title": "Platform",
+        "ai": "AI Intelligence",
+        "markets": "Markets",
+        "charts": "Charts & Tools",
+        "news": "News & Analysis"
+    },
+    "education": {
+        "title": "Education",
+        "academy": "Trading Academy",
+        "webinars": "Live Webinars",
+        "aiCourse": "AI Trading Course",
+        "strategies": "Strategies"
+    },
+    "company": {
+        "title": "Company",
+        "about": "About Us",
+        "contact": "Contact",
+        "careers": "Careers",
+        "press": "Press"
+    },
+    "copyright": "© 2024 4X Analytics Professional Platform. All rights reserved."
+}

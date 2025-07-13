@@ -1,0 +1,10 @@
+{
+    "passwordUppercase": "Şifre en az bir büyük harf içermelidir.",
+    "passwordLowercase": "Şifre en az bir küçük harf içermelidir.",
+    "passwordNumber": "Şifre en az bir rakam içermelidir.",
+    "passwordSpecial": "Şifre en az bir özel karakter içermelidir.",
+    "emailRequired": "E-posta gereklidir.",
+    "emailInvalid": "Lütfen geçerli bir e-posta adresi girin.",
+    "passwordRequired": "Şifre gereklidir.",
+    "passwordMinLength": "Şifre en az 6 karakter olmalıdır."
+}

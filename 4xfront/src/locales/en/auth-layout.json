@@ -1,0 +1,18 @@
+{
+    "title": "4X Trading Platform",
+    "subtitle": "Professional trading tools for the modern investor",
+    "hero": {
+      "headline": "Trade with <confidence>Confidence</confidence>",
+      "features": [
+        { "icon": "🔒", "text": "Bank-level security" },
+        { "icon": "⚡", "text": "Lightning-fast execution" },
+        { "icon": "📊", "text": "Advanced analytics" },
+        { "icon": "🌍", "text": "Global market access" }
+      ],
+      "stats": [
+        { "value": "$2.5B+", "label": "Trading Volume" },
+        { "value": "150K+", "label": "Active Traders" },
+        { "value": "99.9%", "label": "Uptime" }
+      ]
+    }
+}

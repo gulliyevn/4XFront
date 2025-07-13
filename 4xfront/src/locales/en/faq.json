@@ -1,0 +1,73 @@
+{
+    "header": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Get answers to the most common questions about our AI-powered trading platform"
+    },
+    "faqs": [
+        {
+            "id": 1,
+            "question": "How accurate are your AI trading predictions?",
+            "answer": "Our AI algorithms achieve an industry-leading 94.7% accuracy rate in market predictions. This is based on extensive backtesting across multiple asset classes and real-time performance monitoring over the past 3 years."
+        },
+        {
+            "id": 2,
+            "question": "What markets and assets do you cover?",
+            "answer": "We provide comprehensive coverage across stocks (10,000+ symbols), cryptocurrencies (5,000+ coins), forex (100+ pairs), commodities (50+ instruments), and indices from 150+ countries worldwide."
+        },
+        {
+            "id": 3,
+            "question": "Is the platform suitable for beginners?",
+            "answer": "Absolutely! Our platform is designed for traders of all levels. We offer comprehensive educational resources, AI-guided tutorials, and a user-friendly interface that makes advanced trading accessible to beginners."
+        },
+        {
+            "id": 4,
+            "question": "How does your AI technology work?",
+            "answer": "Our AI uses advanced machine learning algorithms including neural networks, natural language processing for sentiment analysis, and deep learning models that analyze millions of data points including price movements, news sentiment, social media trends, and economic indicators."
+        },
+        {
+            "id": 5,
+            "question": "What are the subscription costs?",
+            "answer": "We offer flexible pricing plans starting from $29/month for basic features, $99/month for professional traders, and $299/month for institutional clients. All plans include a 14-day free trial with full access to our AI features."
+        },
+        {
+            "id": 6,
+            "question": "Is my data and funds secure?",
+            "answer": "Security is our top priority. We use bank-level 256-bit SSL encryption, are SOC 2 Type II certified, PCI DSS compliant, and follow strict GDPR guidelines. We never store your trading account credentials and use read-only API connections."
+        },
+        {
+            "id": 7,
+            "question": "Can I integrate with my existing broker?",
+            "answer": "Yes! We support integration with 50+ major brokers including Interactive Brokers, TD Ameritrade, E*TRADE, Robinhood, Binance, Coinbase Pro, and many others through secure API connections."
+        },
+        {
+            "id": 8,
+            "question": "Do you offer mobile apps?",
+            "answer": "Yes, we have native mobile apps for both iOS and Android with full feature parity to our web platform. You can receive real-time alerts, view AI predictions, and execute trades directly from your mobile device."
+        },
+        {
+            "id": 9,
+            "question": "What kind of support do you provide?",
+            "answer": "We offer 24/7 customer support via live chat, email, and phone. Premium subscribers also get access to dedicated account managers and priority support with guaranteed response times under 1 hour."
+        },
+        {
+            "id": 10,
+            "question": "Can I cancel my subscription anytime?",
+            "answer": "Yes, you can cancel your subscription at any time with no cancellation fees. Your access will continue until the end of your current billing period, and you can reactivate anytime without losing your historical data."
+        }
+    ],
+    "sidebar": {
+        "contact": {
+            "title": "Still have questions?",
+            "description": "Our support team is available 24/7 to help you get the most out of our platform.",
+            "supportBtn": "Contact Support",
+            "demoBtn": "Book a Demo"
+        },
+        "resources": {
+            "title": "Helpful Resources",
+            "academy": "Trading Academy",
+            "api": "API Documentation",
+            "tutorials": "Video Tutorials",
+            "community": "Community Forum"
+        }
+    }
+}
