@@ -6,7 +6,8 @@ import { useAuthStore } from '@/stores/authStore'
 import Image from 'next/image'
 import { useTranslations } from 'next-intl'
 import { LanguageSwitcher } from './LanguageSelect'
-import { ThemeToggle } from './ThemeToggle'
+import dynamic from 'next/dynamic'
+const ThemeToggle = dynamic(() => import('./ThemeToggle').then((mod) => mod.ThemeToggle), { ssr: false })
 
 const Navigation = () => {
     const { user, isAuthenticated, logout } = useAuthStore()

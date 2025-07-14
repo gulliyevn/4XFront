@@ -158,16 +158,6 @@
                 "timestamp": "6 hours ago",
                 "sentiment": "bullish",
                 "confidence": 91.2
-            },
-            {
-                "id": 4,
-                "title": "Forex Market Volatility: EUR/USD Analysis",
-                "excerpt": "Deep dive into the current EUR/USD volatility patterns and what our AI models predict for the coming week.",
-                "category": "Forex",
-                "readTime": "4 min read",
-                "timestamp": "8 hours ago",
-                "sentiment": "bearish",
-                "confidence": 89.5
             }
         ],
         "actions": {
@@ -264,14 +254,7 @@
             "timeframe": "Timeframe:"
         },
         "companiesTitle": "Trusted by Leading Financial Institutions",
-        "companies": [
-            { "name": "Goldman Sachs" },
-            { "name": "JPMorgan" },
-            { "name": "BlackRock" },
-            { "name": "Vanguard" },
-            { "name": "Fidelity" },
-            { "name": "Charles Schwab" }
-        ],
+        "companies": [{ "name": "Goldman Sachs" }, { "name": "JPMorgan" }, { "name": "BlackRock" }, { "name": "Vanguard" }],
         "awardsTitle": "Industry Recognition",
         "awards": [
             {

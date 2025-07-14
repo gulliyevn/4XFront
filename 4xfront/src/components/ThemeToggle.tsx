@@ -1,7 +1,7 @@
 'use client'
 
 import { useTranslations } from 'next-intl'
-import { useTheme } from '@/hooks/useTheme' // путь поправьте
+import { useTheme } from '@/hooks/useTheme'
 
 export const ThemeToggle = () => {
     const t = useTranslations('navigation')

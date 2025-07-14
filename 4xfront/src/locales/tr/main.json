@@ -114,16 +114,6 @@
                 "timestamp": "6 saat önce",
                 "sentiment": "bullish",
                 "confidence": 91.2
-            },
-            {
-                "id": 4,
-                "title": "Forex Piyasasında Dalgalanma: EUR/USD Analizi",
-                "excerpt": "Güncel EUR/USD dalgalanma modellerine yakından bakış ve YZ modellerimizin gelecek hafta için tahminleri.",
-                "category": "Forex",
-                "readTime": "4 dk okuma",
-                "timestamp": "8 saat önce",
-                "sentiment": "bearish",
-                "confidence": 89.5
             }
         ],
         "actions": {
@@ -264,14 +254,7 @@
             "timeframe": "Dönem:"
         },
         "companiesTitle": "Önde Gelen Finans Kuruluşlarının Güvendiği Platform",
-        "companies": [
-            { "name": "Goldman Sachs" },
-            { "name": "JPMorgan" },
-            { "name": "BlackRock" },
-            { "name": "Vanguard" },
-            { "name": "Fidelity" },
-            { "name": "Charles Schwab" }
-        ],
+        "companies": [{ "name": "Goldman Sachs" }, { "name": "JPMorgan" }, { "name": "BlackRock" }, { "name": "Vanguard" }],
         "awardsTitle": "Sektörel Takdir",
         "awards": [
             {

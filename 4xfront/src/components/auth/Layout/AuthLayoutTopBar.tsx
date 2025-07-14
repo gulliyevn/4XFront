@@ -1,7 +1,8 @@
+'use client'
 import React from 'react'
 import { LanguageSwitcher } from '@/components/LanguageSelect'
-import { ThemeToggle } from '@/components/ThemeToggle'
-
+import dynamic from 'next/dynamic'
+const ThemeToggle = dynamic(() => import('@/components/ThemeToggle').then((mod) => mod.ThemeToggle), { ssr: false })
 export const AuthLayoutTopBar = () => {
     return (
         <div className="absolute top-0 left-0 right-0 z-20 p-2">

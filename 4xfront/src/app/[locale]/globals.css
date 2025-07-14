@@ -1,13 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 /* ===== RESET & BASE STYLES ===== */
-/* * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-} */
 
 /* ===== NEW THEME SYSTEM - CLEAN IMPLEMENTATION ===== */
 :root {
@@ -662,7 +663,7 @@ a:hover {
     position: absolute;
     top: 100%;
     right: 0;
-    min-width: 150px;
+    min-width: 160px;
     background: var(--bg-card);
     border: 1px solid var(--border-primary);
     border-radius: 0.5rem;

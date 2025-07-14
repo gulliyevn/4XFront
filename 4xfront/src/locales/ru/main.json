@@ -145,16 +145,6 @@
                 "timestamp": "6 часов назад",
                 "sentiment": "bullish",
                 "confidence": 91.2
-            },
-            {
-                "id": 4,
-                "title": "Волатильность на Форекс: анализ EUR/USD",
-                "excerpt": "Глубокий анализ текущих паттернов волатильности EUR/USD и прогнозы наших моделей искусственного интеллекта на предстоящую неделю.",
-                "category": "Форекс",
-                "readTime": "4 мин чтения",
-                "timestamp": "8 часов назад",
-                "sentiment": "bearish",
-                "confidence": 89.5
             }
         ],
         "actions": {
@@ -251,14 +241,7 @@
             "timeframe": "Период:"
         },
         "companiesTitle": "Доверие ведущих финансовых институтов",
-        "companies": [
-            { "name": "Goldman Sachs" },
-            { "name": "JPMorgan" },
-            { "name": "BlackRock" },
-            { "name": "Vanguard" },
-            { "name": "Fidelity" },
-            { "name": "Charles Schwab" }
-        ],
+        "companies": [{ "name": "Goldman Sachs" }, { "name": "JPMorgan" }, { "name": "BlackRock" }, { "name": "Vanguard" }],
         "awardsTitle": "Признание отрасли",
         "awards": [
             {

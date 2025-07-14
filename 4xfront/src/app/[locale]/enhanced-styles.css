@@ -217,8 +217,9 @@
     border-radius: 1rem;
     font-size: 0.75rem;
     font-weight: 600;
-    margin-left: 1rem;
+    margin-top: 1rem;
     animation: pulse 2s infinite;
+    width: fit-content;
 }
 
 .live-dot {
@@ -1334,6 +1335,7 @@
     grid-template-columns: 1fr;
     gap: 3rem;
     margin-top: 3rem;
+    align-items: stretch;
 }
 
 .performance-category {
@@ -1342,6 +1344,7 @@
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 1rem;
     padding: 2rem;
+    height: 100%;
 }
 
 .category-title {
@@ -4556,10 +4559,14 @@
 @keyframes glow-pulse {
     0%,
     100% {
-        box-shadow: 0 0 20px rgba(59, 130, 246, 0.3);
+        text-shadow:
+            0 0 4px rgba(59, 130, 246, 0.3),
+            0 0 8px rgba(59, 130, 246, 0.2);
     }
     50% {
-        box-shadow: 0 0 30px rgba(59, 130, 246, 0.6);
+        text-shadow:
+            0 0 12px rgba(59, 130, 246, 0.6),
+            0 0 24px rgba(59, 130, 246, 0.4);
     }
 }
 

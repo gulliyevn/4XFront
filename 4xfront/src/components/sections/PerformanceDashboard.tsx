@@ -249,45 +249,6 @@ const PerformanceDashboard = () => {
                             </div>
                         </div>
                     </div>
-
-                    {/* Performance Insights */}
-                    <div className="performance-category">
-                        <h3 className="category-title">
-                            <span className="category-icon">💡</span>
-                            Performance Insights
-                        </h3>
-                        <div className="insights-list">
-                            <div className="insight-item">
-                                <div className="insight-icon success">✅</div>
-                                <div className="insight-content">
-                                    <div className="insight-title">Peak Performance Achieved</div>
-                                    <div className="insight-description">
-                                        AI prediction accuracy reached 94.7%, exceeding industry standards by 15%
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="insight-item">
-                                <div className="insight-icon info">ℹ️</div>
-                                <div className="insight-content">
-                                    <div className="insight-title">High User Engagement</div>
-                                    <div className="insight-description">
-                                        12.8K active users with average session time of 47 minutes
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="insight-item">
-                                <div className="insight-icon warning">⚠️</div>
-                                <div className="insight-content">
-                                    <div className="insight-title">Server Load Optimization</div>
-                                    <div className="insight-description">
-                                        Implementing auto-scaling to handle 23% increase in traffic
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
 
                 <div className="performance-footer">

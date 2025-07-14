@@ -2,12 +2,13 @@
 
 import React, { useState } from 'react'
 import { useTranslations } from 'next-intl'
-import { useLanguage, Language } from '@/hooks/useLanguage' // путь скорректируйте по проекту
+import { useLanguage, Language } from '@/hooks/useLanguage'
+import Image from 'next/image'
 
-const languages: { code: Language; flag: string; labelKey: string }[] = [
-    { code: 'en', flag: '🇺🇸', labelKey: 'languages.en' },
-    { code: 'tr', flag: '🇹🇷', labelKey: 'languages.tr' },
-    { code: 'ru', flag: '🇷🇺', labelKey: 'languages.ru' },
+const languages: { code: Language; imgSrc: string; labelKey: string }[] = [
+    { code: 'en', imgSrc: '/assets/united-kingdom.png', labelKey: 'languages.en' },
+    { code: 'tr', imgSrc: '/assets/turkey.png', labelKey: 'languages.tr' },
+    { code: 'ru', imgSrc: '/assets/russia.png', labelKey: 'languages.ru' },
 ]
 
 export const LanguageSwitcher = () => {
@@ -19,7 +20,7 @@ export const LanguageSwitcher = () => {
     return (
         <div className="language-dropdown">
             <button className="nav-button language-btn" onClick={() => setOpen((v) => !v)}>
-                <span className="language-flag">{currentLang.flag}</span>
+                <Image className="language-flag" src={currentLang.imgSrc} alt={currentLang.code} width={24} height={24} />{' '}
                 <span className="language-code">{currentLang.code.toUpperCase()}</span>
             </button>
             {open && (
@@ -32,7 +33,7 @@ export const LanguageSwitcher = () => {
                                 setLanguage(lang.code)
                                 setOpen(false)
                             }}>
-                            <span className="language-flag">{lang.flag}</span>
+                            <Image className="language-flag" src={lang.imgSrc} alt={lang.code} width={24} height={24} />
                             <span className="language-name">{t(lang.labelKey)}</span>
                         </button>
                     ))}
